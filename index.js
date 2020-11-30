@@ -1,6 +1,6 @@
 /**
  * @author Luke Brandon Farrell
- * @description Declares the react-native methods for serializing then
+ * @description Declares the methods for serializing then
  * loading and saving to the local storage.
  */
 
